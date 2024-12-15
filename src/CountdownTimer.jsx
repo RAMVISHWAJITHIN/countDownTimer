@@ -27,7 +27,7 @@ const CountdownTimer = ({ targetDate }) => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen font-sans">
       <div className="flex flex-col items-center justify-center rounded-2xl shadow-2xl p-8 mt-[-20px]">
-        <h1 className="text-2xl font-bold mb-6">NEW YEAR 2025 STARTS</h1>
+        <h1 className="text-2xl font-bold mb-6">NEW YEAR 2026 STARTS</h1>
         <div className="flex space-x-4 text-center text-xl">
           <div className="flex flex-col items-center">
             <div className="text-4xl font-bold text-blue-500">{timeLeft.days}</div>
